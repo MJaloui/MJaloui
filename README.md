@@ -3,7 +3,7 @@
 
 
 
-I am a Software Test Engineer transitioning into Cybersecurity because I simply love challenges, continuous learning, and solving complex problems.
+I'm a Software Test Engineer transitioning into Cybersecurity because I simply love challenges, continuous learning, and solving complex problems.
 
 ## Objective
 
