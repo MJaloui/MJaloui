@@ -1,12 +1,12 @@
 # Hello, I'm Marj
 <a href="https://www.linkedin.com/in/marjorie-alouidor-68b166230/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am a Software Test Engineer transitioning into Cybersecurity because I simply love challenges, continuous learning, and solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 As a Senior QA Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into a Security Analyst role, where I continue to protect digital environments.
 
