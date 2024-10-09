@@ -15,12 +15,12 @@ As a Senior QA Tester, my extensive career in problem-solving, analysis, and saf
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Building a SIEM and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| AD                  | SOC Automation Lab|
+| IAM | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -46,7 +46,6 @@ As a Senior QA Tester, my extensive career in problem-solving, analysis, and saf
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 <img src="https://img.shields.io/badge/-PSM-007ACC?style=for-the-badge&logo=Scrum&logoColor=white" alt="Professional Scrum Master Badge" />
@@ -55,4 +54,4 @@ As a Senior QA Tester, my extensive career in problem-solving, analysis, and saf
 
 ## Projects
 - Building a SIEM
-- Vulnerability Detection
+- Vulnerability Detection & Log Analysis
