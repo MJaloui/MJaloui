@@ -8,7 +8,7 @@ I am a Software Test Engineer transitioning into Cybersecurity because I simply 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a Senior QA Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into a Security Analyst role, where I continue to protect digital environments.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
