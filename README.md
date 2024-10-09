@@ -8,7 +8,7 @@ I'm a Software Test Engineer transitioning into Cybersecurity because I simply l
 ## Objective
 
 
-As a Senior QA Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into a Security Analyst role, where I continue to secure digital environments.
+As a Senior QA Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into a Security Analyst role, where I can continue to secure digital environments.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
