@@ -14,7 +14,7 @@ As a Senior QA Tester, my extensive career in problem-solving, analysis, and saf
 
 
 
-## 🚀 **Tools & Technologies**
+##  🛠️ **Tools & Technologies**  🛠️
 
 ### **Cybersecurity & Networking**
 - ![Splunk](https://img.shields.io/badge/-Splunk-93a2d3?style=flat&logo=splunk&logoColor=white)
