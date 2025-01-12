@@ -65,5 +65,8 @@ As a Senior QA Tester, my extensive career in problem-solving, analysis, and saf
 <img src="https://img.shields.io/badge/-SSM-00796B?style=for-the-badge&logo=Scrum&logoColor=white" alt="Scrum Master Certified Badge" />
 
 ## Projects
+- Weather Dashboard API
+- Sports Alert System
+- NBA Data Lake
 - Building a SIEM
 - Vulnerability Detection & Log Analysis
