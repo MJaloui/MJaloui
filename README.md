@@ -4,7 +4,7 @@
 
 # I'm Marj!
 
-I'm a Software Test Engineer transitioning into Cybersecurity because I simply love challenges, continuous learning, and solving complex problems.
+I’m a Software Test Engineer taking a bigger leap into Cybersecurity because, secretly, I’m a nerd who loves tackling new challenges, learning along the way, and solving tricky problems.
 
 ## Objective
 
