@@ -1,7 +1,8 @@
-# Hello, I'm Marj
+![image](https://github.com/user-attachments/assets/e0d57f09-cc94-428b-8d1d-c292de1d43a8)
+
 <a href="https://www.linkedin.com/in/marjorie-alouidor-68b166230/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+# I'm Marj!
 
 I'm a Software Test Engineer transitioning into Cybersecurity because I simply love challenges, continuous learning, and solving complex problems.
 
@@ -10,40 +11,51 @@ I'm a Software Test Engineer transitioning into Cybersecurity because I simply l
 
 As a Senior QA Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into a Security Analyst role, where I can continue to secure digital environments.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Building a SIEM and Log Analysis          | <a href="https://github.com/MJaloui/Building-a-SIEM">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Honeypot in a Sandbox        | Threat intelligence Lab|
-| Incident Response Planning and Execution      | Incident Response Lab|
-| AD                  | SOC Automation Lab|
-| IAM | Identity Management Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🚀 **Tools & Technologies**
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### **Cybersecurity & Networking**
+- ![Splunk](https://img.shields.io/badge/-Splunk-93a2d3?style=flat&logo=splunk&logoColor=white)
+- ![Nessus](https://img.shields.io/badge/-Nessus-0074d9?style=flat&logoColor=white)
+- ![Nmap](https://img.shields.io/badge/-Nmap-00afdb?style=flat&logoColor=white)
+- ![Wireshark](https://img.shields.io/badge/-Wireshark-1679a7?style=flat&logo=wireshark&logoColor=white)
+- ![AWS IAM](https://img.shields.io/badge/-AWS%20IAM-F7A41D?style=flat&logo=amazon-aws&logoColor=white)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+
+
+### **Cloud & DevOps**
+- ![AWS S3](https://img.shields.io/badge/-AWS%20S3-F7A41D?style=flat&logo=amazon-aws&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### **Programming & Databases**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![boto3](https://img.shields.io/badge/-boto3-3776AB?style=flat&logo=python&logoColor=white)
+- ![Requests](https://img.shields.io/badge/-Requests-FF9900?style=flat&logo=python&logoColor=white)
+
+### **GRC (Governance, Risk, and Compliance)**
+- ![Risk Management](https://img.shields.io/badge/-Risk%20Management-FFA500?style=flat&logo=shield&logoColor=white)
+- ![Compliance Audits](https://img.shields.io/badge/-Compliance%20Audits-008000?style=flat&logo=search&logoColor=white)
+- ![Policy Writing](https://img.shields.io/badge/-Policy%20Writing-4682B4?style=flat&logo=book&logoColor=white)
+- ![NIST Frameworks](https://img.shields.io/badge/-NIST%20Frameworks-000080?style=flat&logo=gov&logoColor=white)
+- ISO, HIPAA, PCI DSS, GDPR Knowledge
+
+### **QA & Testing**
+- ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+- ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+- 📝 Test Plans, Test Strategies, Test Cases
+- 🔍 Functional, Regression, UAT, and Security Testing
+
+
+
+
+
 
 ## Certifications
 <div>
