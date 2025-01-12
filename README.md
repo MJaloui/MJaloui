@@ -9,7 +9,7 @@ I’m a Software Test Engineer taking a bigger leap into Cybersecurity because, 
 ## Objective
 
 
-As a Senior QA Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into a Security Analyst role, where I can continue to secure digital environments.
+As a Senior Software Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into a Security Analyst role, where I can continue to secure digital environments.
 
 
 
