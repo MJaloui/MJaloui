@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/e0d57f09-cc94-428b-8d1d-c292de1d43a8)
 
-<a href="https://www.linkedin.com/in/marjorie-alouidor-68b166230/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # I'm Marj!
 
