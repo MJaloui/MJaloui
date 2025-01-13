@@ -1,6 +1,9 @@
 ![image](https://github.com/user-attachments/assets/e0d57f09-cc94-428b-8d1d-c292de1d43a8)
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 # I'm Marj!
 
 I’m a Software Test Engineer taking a bigger leap into Cybersecurity because, secretly, I’m a nerd who loves tackling new challenges, learning along the way, and solving tricky problems.
