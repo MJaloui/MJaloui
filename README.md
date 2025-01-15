@@ -6,7 +6,7 @@
 &nbsp;
 # I'm Marj!
 
-I’m a Software Test Engineer taking a bigger leap into Cybersecurity because, secretly, I’m a nerd who loves tackling new challenges, learning along the way, and solving tricky problems.
+A Software Test Engineer taking a bigger leap into Cybersecurity because, secretly, I’m a nerd who loves tackling new challenges, learning along the way, and solving tricky problems.
 
 As a Senior Software Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into role, where I can continue to secure digital environments. 
 
