@@ -65,8 +65,13 @@ Right now, I'm studying to obtain CompTIA Linux+ and EC-Council CEH certificatio
 <img src="https://img.shields.io/badge/-SSM-00796B?style=for-the-badge&logo=Scrum&logoColor=white" alt="Scrum Master Certified Badge" />
 
 ## Projects
+
 🌦️ [Weather Dashboard API](https://github.com/MJaloui/Weather---dashboard)
+
 ⚠️ [Sports Alert System](https://github.com/MJaloui/Sports-Alert-System)
+
 🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake)
+
 🔐 [Building a SIEM](https://github.com/MJaloui/Building-a-SIEM)
+
 🔍 Vulnerability Detection & Log Analysis (Comming Soon)
