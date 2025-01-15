@@ -70,8 +70,8 @@ Right now, I'm studying to obtain CompTIA Linux+ and EC-Council CEH certificatio
 
 ⚠️ [NBA Gameday Notifications](https://github.com/MJaloui/game-day-notifications)
 
-🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake)
+🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake) 
 
-🔐 [Building a SIEM](https://github.com/MJaloui/Building-a-SIEM)
+🔐 [Building a SIEM](https://github.com/MJaloui/Building-a-SIEM) (In Progress)
 
 🔍 Vulnerability Detection & Log Analysis (Comming Soon)
