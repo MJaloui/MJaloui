@@ -68,7 +68,7 @@ Right now, I'm studying to obtain CompTIA Linux+ and EC-Council CEH certificatio
 
 🌦️ [Weather Dashboard API](https://github.com/MJaloui/Weather---dashboard)
 
-⚠️ [Sports Alert System](https://github.com/MJaloui/Sports-Alert-System)
+⚠️ [NBA Gameday Notifications](https://github.com/MJaloui/game-day-notifications)
 
 🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake)
 
