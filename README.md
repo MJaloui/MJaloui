@@ -66,7 +66,7 @@ Right now, I'm studying to obtain CompTIA Linux+ and EC-Council CEH certificatio
 
 ## Projects
 
-🌦️ [Weather Dashboard API](https://github.com/MJaloui/Weather---dashboard)
+🌦️ [Weather Dashboard](https://github.com/MJaloui/Weather---dashboard)
 
 ⚠️ [NBA Gameday Notifications](https://github.com/MJaloui/game-day-notifications)
 
