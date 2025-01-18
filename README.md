@@ -10,7 +10,7 @@ A Software Test Engineer taking a bigger leap into Cybersecurity because, secret
 
 As a Senior Software Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into role, where I can continue to secure digital environments. 
 
-Right now, I'm studying to obtain CompTIA Linux+ and EC-Council CEH certifications, and working on personal projects to build my portfolio on GitHub.
+Right now, I'm studying to obtain CompTIA Linux+ certification and working on personal projects to build my portfolio on GitHub.
 
 
 
