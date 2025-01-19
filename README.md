@@ -1,9 +1,11 @@
 ![image](https://github.com/user-attachments/assets/e0d57f09-cc94-428b-8d1d-c292de1d43a8)
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
+
 # I'm Marj!
 
 A Software Test Engineer taking a bigger leap into Cybersecurity because, secretly, I’m a nerd who loves tackling new challenges, learning along the way, and solving tricky problems.
@@ -66,6 +68,8 @@ Right now, I'm studying to obtain CompTIA Linux+ certification and working on pe
 
 ## Projects
 
+🔐 [IAM Users, Groups, and S3 Access](https://github.com/MJaloui/IAM-Users-Groups-S3-Access)
+
 🌦️ [Weather Dashboard](https://github.com/MJaloui/Weather---dashboard)
 
 ⚠️ [NBA Gameday Notifications](https://github.com/MJaloui/game-day-notifications)
@@ -76,4 +80,4 @@ Right now, I'm studying to obtain CompTIA Linux+ certification and working on pe
 
 🔍 Vulnerability Detection & Log Analysis (Comming Soon)
 
-🔐 IAM User & Group Access (In Progress)
+
