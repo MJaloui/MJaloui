@@ -72,7 +72,7 @@ Right now, I'm studying to obtain CompTIA Linux+ certification and working on pe
 
 🌦️ [Weather Dashboard](https://github.com/MJaloui/Weather---dashboard)
 
-⚠️ [NBA Gameday Notifications](https://github.com/MJaloui/game-day-notifications)
+⚠️ [NBA Game Day Notifications](https://github.com/MJaloui/game-day-notifications)
 
 🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake) 
 
