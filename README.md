@@ -8,11 +8,10 @@
 
 # I'm Marj!
 
-A Software Test Engineer taking a bigger leap into Cybersecurity because, secretly, I’m a nerd who loves tackling new challenges, learning along the way, and solving tricky problems.
+After years of testing software, analyzing systems, and problem-solving, my interest in Cybersecurity has grown, and I’m excited to continue helping secure the digital world.
 
-As a Senior Software Tester, my extensive career in problem-solving, analysis, and safeguarding has sparked my curiosity and love for Cybersecurity. I'm excited to transition into role, where I can continue to secure digital environments. 
+Right now, I’m enjoying the journey of building my personal projects on GitHub while continuing my education at Purdue University in a year-long Cybersecurity and Systems Administration program. I’m currently attending a CEH class and will be finishing up with a Cloud Systems Administration class in June.
 
-Right now, I'm studying to obtain CompTIA Linux+ certification and working on personal projects to build my portfolio on GitHub.
 
 
 
