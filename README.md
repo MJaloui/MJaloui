@@ -73,6 +73,8 @@ Right now, I’m enjoying the journey of building my personal projects on GitHub
 
 ⚠️ [NBA Game Day Notifications](https://github.com/MJaloui/game-day-notifications)
 
+⚠️ [Game Day Notifications -w- Terraform](https://github.com/MJaloui/Game-Day-Notifications--w--Terraform) (In Progress)
+
 🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake) 
 
 🛡️ [Building a SIEM](https://github.com/MJaloui/Building-a-SIEM) 
