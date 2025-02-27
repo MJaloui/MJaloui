@@ -75,8 +75,8 @@ Right now, I’m enjoying the journey of building my personal projects on GitHub
 
 🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake) 
 
-🛡️ [Building a SIEM](https://github.com/MJaloui/Building-a-SIEM) (In Progress)
+🛡️ [Building a SIEM](https://github.com/MJaloui/Building-a-SIEM) 
 
-🔍 Vulnerability Detection & Log Analysis (Comming Soon)
+
 
 
