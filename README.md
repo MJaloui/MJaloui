@@ -75,6 +75,8 @@ Right now, I’m enjoying the journey of building my personal projects on GitHub
 
 ⚠️ [Game Day Notifications -w- Terraform](https://github.com/MJaloui/Game-Day-Notifications--w--Terraform) 
 
+⛹🏽‍♀️ [NCAA Game Highlights](https://github.com/MJaloui/NCAAGameHighlights.md)
+
 📦 [Containerized Sports API](https://github.com/MJaloui/Containerized-Sports-API) (In Progress)
 
 🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake) 
