@@ -77,7 +77,7 @@ Right now, I’m enjoying the journey of building my personal projects on GitHub
 
 ⛹🏽‍♀️ [NCAA Game Highlights](https://github.com/MJaloui/NCAAGameHighlights.md)
 
-📦 [Containerized Sports API](https://github.com/MJaloui/Containerized-Sports-API) (In Progress)
+📦 [Containerized Sports API](https://github.com/MJaloui/Containerized-Sports-API) 
 
 🏀 [NBA Data Lake](https://github.com/MJaloui/NBADataLake) 
 
