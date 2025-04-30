@@ -10,7 +10,7 @@
 
 After years of testing software, analyzing systems, and problem-solving, my interest in Cybersecurity has grown, and I’m excited to continue helping secure the digital world.
 
-Right now, I’m enjoying the journey of building my personal projects on GitHub while continuing my education at Purdue University in a year-long Cybersecurity and Systems Administration program. I’m currently attending a CEH class and will be finishing up with a Cloud Systems Administration class in June.
+Right now, I’m enjoying the journey of building my personal projects on GitHub while continuing my education at Purdue University in a year-long Cybersecurity-Systems Administration program ending June 2025.
 
 
 
