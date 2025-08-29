@@ -8,12 +8,11 @@
 
 # I'm Marj!
 
-After years of testing software and leading QA teams, I expanded into engineering and cybersecurity to better understand how to build and secure systems. I earned my CompTIA Security+ certification and joined Purdue University’s Cybersecurity–Systems Administration program, where I’ve gained hands-on experience with Linux, networking, cloud, and ethical hacking.
+After years of testing software and leading QA teams, I expanded into engineering and cybersecurity to better understand how to build and secure systems. I earned my CompTIA Security+ certification and joined Purdue University’s Cybersecurity Systems Administration program, where I’ve gained hands-on experience with Linux, networking, cloud, and ethical hacking.
 
 I'm currently working with Resilient Coders as a Software Engineer, where I build and deployed full-stack applications with HTML, CSS, JavaScript, Node.js, and MongoDB, contributing to client projects that solves real-world problems for small businesses and mission-driven organizations.
 
-Right now, I’m documenting my personal projects on GitHub including AWS IAM access management, containerized APIs, and SIEM threat detection to keep building my skills in both engineering and security.
-
+Right now, I’m documenting my personal projects on GitHub in my liesure time, check them out! :-)
 
 
 
