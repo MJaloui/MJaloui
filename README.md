@@ -6,13 +6,19 @@
 &nbsp;
 &nbsp;
 
-# I'm Marj!
 
-After years of testing software testing, I expanded into engineering and cybersecurity to better understand how to build and secure systems.
 
-I'm currently working with Resilient Coders as a Software Engineer, where I build and deployed full-stack applications with HTML, CSS, JavaScript, Node.js, and MongoDB, contributing to client projects that solves real-world problems for small businesses and mission-driven organizations.
 
-Right now, I’m documenting my personal projects on GitHub in my liesure time, check them out! :-)
+# I'm Marj! 👋
+
+I’m a QA Engineer and Systems Engineer with a background in cybersecurity, cloud, and infrastructure. My career started in software testing and quality assurance, then expanded into engineering to better understand how to build, test, and secure reliable systems end to end.
+
+I currently work with Resilient Coders as a Software Engineer, where I build and deploy full-stack applications while also validating system behavior, testing APIs, and supporting secure environments using Linux, Git, and cloud services for real client projects.
+
+On GitHub, I document personal projects that focus on QA / systems engineering, cloud, and security.  
+
+check them out! :-)
+
 
 
 
