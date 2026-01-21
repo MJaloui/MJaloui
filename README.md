@@ -15,7 +15,7 @@ I’m a QA Engineer and Systems Engineer with a background in cybersecurity, clo
 
 I currently work with Resilient Coders as a Software Engineer, where I build and deploy full-stack applications while also validating system behavior, testing APIs, and supporting secure environments using Linux, Git, and cloud services for real client projects.
 
-On GitHub, I document personal projects that focus on QA / systems engineering, cloud, and security.  
+On GitHub, I document personal projects that focus on systems engineering, cloud, security, and full-stack development.
 
 check them out! :-)
 
