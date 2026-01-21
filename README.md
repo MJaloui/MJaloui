@@ -11,7 +11,7 @@
 
 # I'm Marj! 👋
 
-I’m a QA Engineer and Systems Engineer with a background in cybersecurity, cloud, and infrastructure. My career started in software testing and quality assurance, then expanded into engineering to better understand how to build, test, and secure reliable systems end to end.
+I’m a QA and Systems engineer. My career started in QA software testing, then expanded into engineering to better understand how to build, test, and secure reliable systems end to end.
 
 I currently work with Resilient Coders as a Software Engineer, where I build and deploy full-stack applications while also validating system behavior, testing APIs, and supporting secure environments using Linux, Git, and cloud services for real client projects.
 
