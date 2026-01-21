@@ -34,7 +34,7 @@ check them out! :-)
 
 
 ### **Cloud & DevOps**
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) -------------> AWS CLI, IAM, S3, Lamda, SNS, RDS, Glue, Athena, EC2, ECS, Fargate, API Gateway, EventBridge, Cloud Watch <-------------
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ----------> AWS CLI, IAM, S3, Lamda, SNS, RDS, Glue, Athena, EC2, ECS, Fargate, API Gateway, EventBridge, Cloud Watch <------------
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
